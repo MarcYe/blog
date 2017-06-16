@@ -6,4 +6,5 @@
 
 ## 如何预览
 
-点击 https://marcye.github.io/blog/ 预览
+[点击预览](https://marcye.github.io/blog/)
+
